@@ -37,4 +37,7 @@ python CouchPotato.py
 # in "Setting" -> "Searcher" -> "Preferred Words"if you use other providers that may contain sources in
 # different languages. This will give Italian releases a higher score.
 # Also make sure you don't have the "italian" string among the "ignored keywords"!
+
+# IMPORTANT: in order to retrieve all the results of a search, you need to login to HDTorrents.it, then go
+# to "Modifica profilo" and set the value of "Torrents per pagina" to a very high value, i.e.: 9999
 ```
