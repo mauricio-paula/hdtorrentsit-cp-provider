@@ -25,7 +25,7 @@ https://github.com/neothematrix/hdtorrentsit-cp-provider/archive/master.zip
 cd ~/CouchPotatoServer # or wherever you have it stored
 cd ./custom_plugins
 
-# Extract the downloaded master.zip into a folder named corsaronero
+# Extract the downloaded master.zip into a folder named hdtorrentsit-cp-provider
 unzip master.zip -d hdtorrentsit-cp-provider # note, your master.zip might be located somewhere else
 
 # Startup CouchPotatoServer
@@ -34,7 +34,7 @@ python CouchPotato.py
 
 # Now you should see *HDTorrents.it* as one of the prodivers for Torrents. Enable it!
 # It's suggested to add *ita, italian, sub ita* etc. as "preferred keywords" and also "required keywords"
-# in "Setting" -> "Searcher" -> "Preferred Words"if you use other providers that may contain sources in
+# in "Setting" -> "Searcher" -> "Preferred Words" if you use other providers that may contain sources in
 # different languages. This will give Italian releases a higher score.
 # Also make sure you don't have the "italian" string among the "ignored keywords"!
 
