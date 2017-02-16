@@ -5,7 +5,7 @@ A CouchPotatoServer module to add the private tracker HDTorrents.it as a torrent
 
 ####SETUP INSTRUCTIONS (TL;DR)
 
-Download the master branch *https://github.com/neothematrix/hdtorrentsit-cp-provider/archive/master.zip* and extract it
+Download the latest release zip file *https://github.com/neothematrix/hdtorrentsit-cp-provider/releases/latest* and extract it
 inside a "hdtorrentsit-cp-provider" folder into your CouchPotato "custom_plugins" folder (it's under CouchPotato data dir folder).
 If you don't know where your CouchPotato data dir folder is, open CouchPotato web interface, then go to: Settings -> About -> Directories.
 Make sure to enable it inside the "Searcher" section of CouchPotato configuration, and make sure to add your username and password (mandatory)
