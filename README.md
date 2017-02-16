@@ -14,7 +14,7 @@ Make sure to enable it inside the "Searcher" section of CouchPotato configuratio
 
 ```
 # Download the HDTorrents.it search provider (Italian torrents only, see https://hdtorrents.it)
-https://github.com/neothematrix/hdtorrentsit-cp-provider/archive/master.zip
+https://github.com/neothematrix/hdtorrentsit-cp-provider/releases/latest
 
 # Shut down CouchPotatoServer, either by opening it up in a browser 
 # and going to "Settings" -> "Shutdown", or by terminating the process
